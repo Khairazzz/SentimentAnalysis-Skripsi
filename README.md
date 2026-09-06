@@ -295,50 +295,6 @@ Combining both provides a more comprehensive understanding of user feedback.
 
 ---
 
-# 📁 Project Structure
-
-```text
-SentimentAnalysis-Skripsi/
-│
-├── README.md
-│
-├── notebooks/
-│   ├── sentiment_analysis_IndoBERT.ipynb
-│   └── nested_sentiment_bertopic_pipeline.ipynb
-│
-├── results/
-│   ├── confusion_matrix.png
-│   ├── sentiment_distribution.png
-│   └── sentiment_by_aspect.png
-│
-└── requirements.txt
-```
-
----
-
-# 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Khairazzz/SentimentAnalysis-Skripsi.git
-cd SentimentAnalysis-Skripsi
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Open the notebooks
-
-The analysis can be reproduced by running the notebooks in the `notebooks/` directory.
-
-> Some notebooks may require access to the original dataset, which is not included in this repository.
-
----
-
 # 📚 Project Context
 
 This project was developed as part of an undergraduate thesis in **Information Technology at Universitas Gadjah Mada**.
