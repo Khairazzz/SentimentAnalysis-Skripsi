@@ -126,8 +126,6 @@ The confusion matrix below shows the classification performance of the final sen
 
 <img width="627" height="454" alt="Gambar 4 19  Confusion Matrix Hasil Klasifikasi" src="https://github.com/user-attachments/assets/86a21d6f-2120-4eea-94b4-a1e7d9c4aed5" />
 
-![Confusion Matrix](results/confusion_matrix.png)
-
 ---
 
 ## 📊 Sentiment Distribution
@@ -143,8 +141,6 @@ After applying the sentiment classification model to the final dataset, the pred
 The distribution indicates that **negative feedback dominates the collected reviews**, suggesting that users frequently encountered issues or dissatisfaction when using the application.
 
 <img width="400" height="406" alt="Gambar 4 21  Distribusi Prediksi Sentimen Seluruh Dataset" src="https://github.com/user-attachments/assets/f3d31e69-a1db-4c50-9db7-e596a1d85c6c" />
-
-![Sentiment Distribution](results/sentiment_distribution.png)
 
 ---
 
@@ -203,8 +199,6 @@ To provide more actionable insights, sentiment was analyzed within each identifi
 This analysis helps distinguish between aspects that are frequently discussed and aspects that receive predominantly negative feedback.
 
 <img width="1187" height="707" alt="Gambar 4 25 Distribusi Ulasan Negatif per Aspek" src="https://github.com/user-attachments/assets/df8f78b0-1a71-4d11-89b2-fd1002dc3e80" />
-
-![Sentiment Distribution by UI/UX Aspect](results/sentiment_by_aspect.png)
 
 ### Example Interpretation
 
